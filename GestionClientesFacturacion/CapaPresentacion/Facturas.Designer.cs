@@ -398,9 +398,9 @@ namespace CapaPresentacion
             this.detallesFactura.ForeColor = System.Drawing.Color.White;
             this.detallesFactura.Image = ((System.Drawing.Image)(resources.GetObject("detallesFactura.Image")));
             this.detallesFactura.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.detallesFactura.Location = new System.Drawing.Point(635, 551);
+            this.detallesFactura.Location = new System.Drawing.Point(658, 551);
             this.detallesFactura.Name = "detallesFactura";
-            this.detallesFactura.Size = new System.Drawing.Size(298, 53);
+            this.detallesFactura.Size = new System.Drawing.Size(275, 53);
             this.detallesFactura.TabIndex = 37;
             this.detallesFactura.Text = "Detalles de factura";
             this.detallesFactura.UseVisualStyleBackColor = false;

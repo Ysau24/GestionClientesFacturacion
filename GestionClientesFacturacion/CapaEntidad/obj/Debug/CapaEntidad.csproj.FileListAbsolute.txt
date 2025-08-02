@@ -4,3 +4,9 @@ C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaEntidad\obj\Debug\Capa
 C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Dell\Source\Repos\GestionClientesFacturacion\GestionClientesFacturacion\CapaEntidad\obj\Debug\CapaEntidad.pdb

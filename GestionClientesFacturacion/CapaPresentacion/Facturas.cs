@@ -16,7 +16,6 @@ namespace CapaPresentacion
         {
             InitializeComponent();
             LoadData();
-
         }
 
         public void LoadData()
@@ -28,11 +27,9 @@ namespace CapaPresentacion
             ListaDeFacturas.ClearSelection();
         }
 
-
         private void closeButton_Click(object sender, EventArgs e)
         {
             Application.Exit();
-
         }
 
         private void LogInButton_Click(object sender, EventArgs e)
@@ -41,23 +38,16 @@ namespace CapaPresentacion
             login.Show();
             this.Close();
         }
-
-
         private void ActualizarButtom_Click(object sender, EventArgs e)
         {
             LoadData();
-
         }
-
         private void AgregarButton_Click(object sender, EventArgs e)
         {
             IDTxt.Enabled = true;
             FechaTxt.Enabled = true;
             TotalTxt.Enabled = true;
         }
-
-        
-
         private void detallesFactura_Click(object sender, EventArgs e)
         {
             DetalleFactura detalles = new DetalleFactura();

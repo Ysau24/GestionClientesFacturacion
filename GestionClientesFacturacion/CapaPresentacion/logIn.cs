@@ -14,7 +14,7 @@ namespace CapaPresentacion
 
         private void closeButton_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Application.Exit(); //A diferencia de this.Close(), esto finaliza toda la aplicación, no solo el formulario actual.
         }
 
         private void iniciarSesionButton_Click(object sender, EventArgs e)

@@ -1,9 +1,0 @@
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
-C:\Users\Dell\source\repos\GestionClientesFacturacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

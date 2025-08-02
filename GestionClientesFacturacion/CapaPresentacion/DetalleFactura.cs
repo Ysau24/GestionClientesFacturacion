@@ -8,6 +8,8 @@ namespace CapaPresentacion
 {
     public partial class DetalleFactura : Form, ILoadData
     {
+        //Objetos de la capa de negocio y entidad necesarios para gestionar los detalles de factura
+
         N_DetalleFactura objN_DetalleFactura = new N_DetalleFactura();
         E_DetalleFactura objE_DetalleFactura = new E_DetalleFactura();
 
@@ -56,8 +58,6 @@ namespace CapaPresentacion
             DescripcionTxt.Enabled = true;
             PrecioTxt.Enabled = true;
             CantidadTxt.Enabled = true;
-
-
         }
 
         private void GuardarButtom_Click(object sender, EventArgs e)
@@ -88,7 +88,6 @@ namespace CapaPresentacion
             DescripcionTxt.Clear();
             CantidadTxt.Clear();
             PrecioTxt.Clear();
-
         }
     }
 }
